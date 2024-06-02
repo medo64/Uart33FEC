@@ -21,6 +21,7 @@
 |  1 | U Transciever Uart FT230XS (SSOP-16)              | U1      | 768-1154-5-ND               |
 |  1 | U LoadSwitch 500mA MIC2005A-1 (SOT23-5)           | U2      | 576-3462-1-ND               |
 |  1 | VR Linear 3.3V 1000mA AZ1117IH-3.3TRG1 (SOT223)   | VR1     | AZ1117IH-3.3TRG1DICT-ND     |
+|  2 | H Screw M2x3mm                                    | -       | -                           |
 
 
 #### Board Size
