@@ -43,7 +43,9 @@
 
 #### Power
 
-|          | Voltage | Current |
-|----------|--------:|--------:|
-| Total    |     5 V |  550 mA |
-| Output   |   3.3 V |  500 mA |
+|                 | Minimum | Typical | Maximum |
+|-----------------|--------:|--------:|--------:|
+| Input voltage:  |         |   5.0 V |         |
+| Output voltage: |         |   5.0 V |         |
+| Input current:  |  510 mA |         |         |
+| Output current: |  500 mA |  700 mA |  900 mA |
