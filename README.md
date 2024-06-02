@@ -19,7 +19,7 @@ expansion card.
 | 2 | GND | Ground connection               |
 | 1 | RXD | Receive (3.3V TTL)              |
 | 3 | TXD | Transmit (3.3V TTL)             |
-| 4 | 3V3 | 3.3V 500mA output (typical)     |
+| 4 | 3V3 | 3.3V 400mA (typical) output     |
 
 Using 22 AWG wire 0.25 mm² is recommended.
 
