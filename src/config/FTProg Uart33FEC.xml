@@ -16,7 +16,7 @@
       <BusPowered>true</BusPowered>
     </bmAttributes>
     <IOpullDown>true</IOpullDown>
-    <MaxPower>500</MaxPower>
+    <MaxPower>450</MaxPower>
   </USB_Config_Descriptor>
   <USB_String_Descriptors>
     <Manufacturer>Medo64</Manufacturer>
